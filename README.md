@@ -4,4 +4,4 @@ A clean and nice web portfolio of mine. That includes almost everything about me
 
 
 
-![preview img](/preview.png)
+![preview img](/Preview.png)
